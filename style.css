@@ -47,7 +47,18 @@ a:hover {
 .bloc-lg {
     padding: 100px 50px;
 }
-
+.presentation {
+    font-size: 22px;
+}
+.citation {
+    font-size: 19px;
+    font-style: italic;
+    font-weight: bold;
+}
+.realisation {
+    font-size: 22px;
+    font-weight: bold;
+}
 .bloc-md {
     padding: 50px;
 }
@@ -677,7 +688,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
