@@ -714,6 +714,9 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.social a {
+    color: white !important;
+}
 .icon-md {
     margin-right: 5px;
 }
